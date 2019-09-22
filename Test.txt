@@ -1,2 +1,1 @@
-toto
-titi
+Ce fichier ne contient pas de code, il est juste là pour l'exercie
